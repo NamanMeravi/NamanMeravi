@@ -1,31 +1,27 @@
 ![Design and Development](background.png)
+
 <br><br>
 
 <b>▶️ Introduction:</b> <br>
-➖ I'm a passionate final year student pursuing B.Tech in Computer Science Engineering. <br>
-➖ Former Web Development Co-Lead at Google Developer Students Club (2023–2024). <br>
+➖ Final-year <b>B.Tech Computer Science Engineering</b> student at <b>IIIT Bhopal</b> with hands-on experience in building scalable, production-ready software systems. <br>
+➖ Full Stack Engineer Intern with experience delivering MERN-based applications used by <b>500+ users</b>, focusing on clean architecture, security, and performance. <br>
 <br>
 
 <b>▶️ Skills:</b> <br>
-➖ A collaborative team player with hands-on experience across Full Stack Web Development, DevOps, Algorithms, and Software Development. <br>
-➖ Strong problem-solving mindset with a solid foundation in Data Structures, Algorithms, and mathematical concepts, enabling effective solutions to real-world engineering challenges. <br>
+➖ Collaborative <b>Full Stack Developer</b> with practical experience in <b>React, TypeScript, Node.js, Express, MongoDB, PostgreSQL</b>, and modern DevOps tools. <br>
+➖ Strong foundation in <b>Data Structures & Algorithms, Operating Systems, DBMS, and Computer Networks</b>, enabling effective problem-solving and scalable system design. <br>
 <br>
 
 <b>▶️ Inspiration:</b> <br>
-➖ Driven by curiosity to understand how real-world systems work and to build scalable, reliable, and impactful software products. <br>
+➖ Driven to understand how real-world systems operate at scale and to build <b>reliable, high-impact software products</b>, with a growing focus on <b>AI-powered applications</b> and backend scalability. <br>
 <br>
 
-📩 Contact me at: <b>namanmeravi0@gmail.com</b>
+📩 Contact me at: <b>namanmeravi0@gmail.com
+</b>
 <br><br><br>
 
-## 🌐 How to reach me
-<p align="left">
-<a href="https://www.linkedin.com/in/naman-meravi-660a1b257/" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       height="30" width="40" />
-</a>
-</p>
+🌐 How to reach me
+<p align="left"> <a href="https://www.linkedin.com/in/naman-meravi-660a1b257/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> </a> </p>
 
 <br><br>
 
