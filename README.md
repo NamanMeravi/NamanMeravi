@@ -1,4 +1,4 @@
-![Design and Development](PASTE_YOUR_BACKGROUND_IMAGE_LINK_HERE)
+![Design and Development](gitbackground.png)
 <br><br>
 
 <b>▶️ Introduction:</b> <br>
